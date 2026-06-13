@@ -1,111 +1,69 @@
-# SIX7 Privacy Policy
+<img width="1400" height="560" alt="six7_marquee_promo_1400x560" src="https://github.com/user-attachments/assets/bf72da2c-c7b0-449c-a1a8-aa65a46de761" />
 
-Last updated: June 7, 2026
 
-Six7 is a Chrome extension that adds temporary private messaging and peer-to-peer file sharing between Six7 users on the same YouTube watch page.
 
-This policy explains what data Six7 handles, how that data is used, how it is stored, how it is transmitted, and when it is shared.
+# SIX7
 
-## Data Six7 handles
+**Private peer-to-peer DMs for YouTube rooms.**
 
-Six7 handles only the data needed to provide its private messaging and peer-to-peer file sharing features.
+SIX7 is a Chrome extension that adds temporary private messaging and peer-to-peer file sharing between SIX7 users on the same YouTube watch page.
 
-Six7 may handle:
+It is built for quick, in-the-moment conversations during a live chat or replay session without needing to post contact info publicly.
 
-* The current YouTube watch page or video identifier, used to group Six7 users into a temporary room.
-* The user’s visible YouTube @handle or display name, used as the user’s in-room Six7 identity.
-* The user’s visible YouTube avatar, used only for in-room display.
-* Local Six7 settings, block list, room state, session state, and connection state.
-* Private messages sent between Six7 users who choose to chat.
-* File transfer data sent between Six7 users who choose to share files.
-* Temporary peer discovery, presence, rendezvous, and signaling data used to help Six7 users connect.
+## What SIX7 does
 
-Six7 does not collect real names, email addresses, phone numbers, home addresses, payment information, government identifiers, passwords, authentication credentials, precise location, health information, or financial information.
+* Adds a private DM panel to supported YouTube watch pages
+* Lets SIX7 users in the same room discover each other
+* Supports direct peer-to-peer chat when connected
+* Supports simple peer-to-peer file sharing
+* Uses your visible YouTube identity only for in-room display
+* Does not store chat messages or files on a SIX7 server
 
-## How Six7 uses data
+## Privacy-first by design
 
-Six7 uses handled data only to provide its user-facing features:
+SIX7 is designed around temporary room presence and direct peer-to-peer communication.
 
-* Detecting eligible YouTube watch pages.
-* Showing the Six7 in-page overlay.
-* Grouping Six7 users into temporary room-based sessions.
-* Displaying visible YouTube @handles, display names, and avatars inside the Six7 interface.
-* Discovering compatible Six7 peers in the same temporary room.
-* Establishing peer-to-peer connections.
-* Sending private messages between connected peers.
-* Sending user-approved peer-to-peer file transfers.
-* Maintaining local settings, block lists, and temporary room/session state.
+Messages and shared files are sent directly between connected users when possible. SIX7 does not operate a message-storage server and does not store private chats or files.
 
-Six7 does not use user data for advertising, analytics, tracking, profiling, credit, lending, eligibility decisions, resale, or unrelated purposes.
+Cloudflare infrastructure may be used for limited presence, rendezvous, and signaling so users can find and connect to each other. It is not used to store chat messages or files.
 
-## Message and file handling
+Read the full policy here:
 
-Six7 private messages are sent peer-to-peer between connected users when a peer-to-peer connection is available.
+[Privacy Policy](./PRIVACY.md)
 
-Six7 file transfers are sent peer-to-peer between users when a user chooses to send a file and the receiving user accepts it.
+## Install
 
-Six7 does not operate a message storage server.
+SIX7 is available on the Chrome Web Store:
 
-Six7 does not store private message history on a Six7 server.
+[Install SIX7](https://chromewebstore.google.com/detail/dfeipmbhcoooojdgneapdmccillapgmd?utm_source=item-share-cb)
 
-Six7 does not upload files to a Six7 server.
+## Basic usage
 
-Six7 does not store shared files on a Six7 server.
+1. Install the extension.
+2. Open a supported YouTube watch page.
+3. Set your SIX7 handle / accept the privacy notice if prompted.
+4. Open the SIX7 panel from the masthead button.
+5. Connect with another SIX7 user in the same room.
+6. Chat privately without posting contact info publicly.
 
-## Storage and retention
+## Current status
 
-Six7 stores local settings and session-related data in the user’s browser using Chrome extension storage or local browser storage.
+SIX7 is in active development.
 
-Local data may include settings, block list entries, room/session state, and connection state needed for the extension to work.
+The current focus is stability, room detection, privacy clarity, and reliable peer-to-peer connection behavior across YouTube watch pages.
 
-Local Six7 data remains in the user’s browser until the user resets their Six7 identity, clears extension/browser storage, resets the browser profile, or removes the extension.
+## Notes
 
-Six7 does not maintain a server-side database of users, messages, files, or chat history.
+SIX7 is an independent project and is not affiliated with YouTube, Google, or Chrome.
 
-Temporary discovery/session data is used only as needed to provide presence, rendezvous, signaling, and connection setup.
+YouTube page behavior can change over time, so some features may need updates as the site changes.
 
-## Transmission
+## Support
 
-Peer discovery, presence, rendezvous, and signaling may use Six7 network services, currently hosted through Cloudflare, to announce that a Six7 user is present in a temporary room and to help peers connect.
+For issues, feedback, or bug reports, use the repository Issues tab or contact:
 
-Six7 network services are used for peer discovery, presence, rendezvous, signaling, and connection setup.
+[theastrocreeper@protonmail.com](mailto:theastrocreeper@protonmail.com)
 
-Six7 network services are not used to store private message contents or file contents.
 
-Private messages and file transfers are exchanged directly between connected peers when a peer-to-peer connection is available.
 
-Network requests use HTTPS where applicable. Peer-to-peer connections use browser-provided WebRTC security where applicable.
-
-## Sharing
-
-Six7 does not sell user data.
-
-Six7 does not share user data with advertisers, data brokers, analytics providers, or marketing companies.
-
-Six7 does not use third-party analytics.
-
-Six7 may share limited temporary presence, rendezvous, and signaling data with Cloudflare-hosted Six7 network services only as necessary to help peers discover each other and establish a connection.
-
-Six7 users who choose to send private messages or files share that content with the selected connected peer.
-
-Six7 may disclose data if required by law or if necessary to protect against abuse, fraud, security issues, or misuse of the extension.
-
-## User control and deletion
-
-Users can stop Six7 from handling new data by closing the supported YouTube page, disabling Six7, or uninstalling Six7.
-
-Users can delete local Six7 data by resetting their Six7 identity, clearing extension/browser storage, resetting the browser profile, or uninstalling Six7.
-
-Because Six7 does not maintain a server-side database of users, messages, files, or chat history, there is no server-side Six7 message archive, file archive, or user account record to delete.
-
-## Limited Use
-
-Six7’s use of user data is limited to providing and improving the extension’s stated private messaging, temporary room presence, peer discovery, connection setup, and peer-to-peer file sharing functionality.
-
-Six7 does not use user data for any purpose unrelated to its single purpose.
-
-## Contact
-
-For privacy questions about Six7, contact:
-
-[TheAstrocreeper@protonmail.com](mailto:TheAstrocreeper@protonmail.com)
+<img width="1280" height="800" alt="SIX7" src="https://github.com/user-attachments/assets/b726b43e-62c3-46de-a6bc-e9b07a57b065" />
