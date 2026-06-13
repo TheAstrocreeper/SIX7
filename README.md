@@ -10,6 +10,8 @@ SIX7 is a Chrome extension that adds temporary private messaging and peer-to-pee
 
 It is built for quick, in-the-moment conversations during a live chat or replay session without needing to post contact info publicly.
 
+<img width="1280" height="800" alt="SIX7" src="https://github.com/user-attachments/assets/b726b43e-62c3-46de-a6bc-e9b07a57b065" />
+
 ## What SIX7 does
 
 * Adds a private DM panel to supported YouTube watch pages
@@ -50,6 +52,8 @@ SIX7 is available on the Chrome Web Store:
 
 SIX7 is in active development.
 
+Current Chrome Web Store version: **v1.0.10**.
+
 The current focus is stability, room detection, privacy clarity, and reliable peer-to-peer connection behavior across YouTube watch pages.
 
 ## Notes
@@ -66,4 +70,4 @@ For issues, feedback, or bug reports, use the repository Issues tab or contact:
 
 
 
-<img width="1280" height="800" alt="SIX7" src="https://github.com/user-attachments/assets/b726b43e-62c3-46de-a6bc-e9b07a57b065" />
+
