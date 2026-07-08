@@ -1,4 +1,5 @@
-<img width="1400" height="560" alt="six7_marquee_promo_1400x560" src="https://github.com/user-attachments/assets/bf72da2c-c7b0-449c-a1a8-aa65a46de761" />
+<img width="1983" height="793" alt="astro" src="https://github.com/user-attachments/assets/b92ea62c-8230-4c5b-9ddc-daae8bab5126" />
+
 
 
 
